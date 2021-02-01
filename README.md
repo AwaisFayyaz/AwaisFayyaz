@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Awais Fayyaz 👋
+
+I'm Software Developer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
 <!--
 **AwaisFayyaz/AwaisFayyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
