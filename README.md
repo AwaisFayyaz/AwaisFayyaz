@@ -1,6 +1,8 @@
 ### Hi there, I am Awais Fayyaz 👋
 
-I'm Software engineer, who loves building mobile applications. My current area of expertise is native iOS app development. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
+I'm a Software engineer, who loves building mobile applications. My current area of expertise is native iOS app development using mainly Swift and some objective C as well. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
+
+I am currently working as a Senior Software Engineer in NextBridge Pvt Limited(https://www.nextbridge.pk/about/). I am working on a message application, similar to whatsapp, telegram etc. See more about this application at https://fhetch.com/
 
 <!--
 **AwaisFayyaz/AwaisFayyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
